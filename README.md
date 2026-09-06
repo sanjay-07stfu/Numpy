@@ -10,12 +10,3 @@ This repository contains my learning and practice work on NumPy, the fundamental
 - Basic linear algebra
 - Practical examples and exercises
 
-### 🎯 Purpose
-The goal of this repository is to build a strong foundation in numerical computing, which is essential for working with libraries like Pandas, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.
-
-### 🚀 Future Plans
-- Add more practice problems
-- Include small real-world examples
-- Extend learning to Pandas and Data Visualization
-
-
